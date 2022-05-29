@@ -1,0 +1,15 @@
+C:\Users\Комп\YandexDisk\My C#\Practice 3 DS_Mat\obj\Debug\net6.0\Practice 3 DS_Mat.csproj.AssemblyReference.cache
+C:\Users\Комп\YandexDisk\My C#\Practice 3 DS_Mat\obj\Debug\net6.0\Practice 3 DS_Mat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Комп\YandexDisk\My C#\Practice 3 DS_Mat\obj\Debug\net6.0\Practice 3 DS_Mat.AssemblyInfoInputs.cache
+C:\Users\Комп\YandexDisk\My C#\Practice 3 DS_Mat\obj\Debug\net6.0\Practice 3 DS_Mat.AssemblyInfo.cs
+C:\Users\Комп\YandexDisk\My C#\Practice 3 DS_Mat\obj\Debug\net6.0\Practice 3 DS_Mat.csproj.CoreCompileInputs.cache
+C:\Users\Комп\YandexDisk\My C#\Practice 3 DS_Mat\bin\Debug\net6.0\Practice 3 DS_Mat.exe
+C:\Users\Комп\YandexDisk\My C#\Practice 3 DS_Mat\bin\Debug\net6.0\Practice 3 DS_Mat.deps.json
+C:\Users\Комп\YandexDisk\My C#\Practice 3 DS_Mat\bin\Debug\net6.0\Practice 3 DS_Mat.runtimeconfig.json
+C:\Users\Комп\YandexDisk\My C#\Practice 3 DS_Mat\bin\Debug\net6.0\Practice 3 DS_Mat.dll
+C:\Users\Комп\YandexDisk\My C#\Practice 3 DS_Mat\bin\Debug\net6.0\Practice 3 DS_Mat.pdb
+C:\Users\Комп\YandexDisk\My C#\Practice 3 DS_Mat\obj\Debug\net6.0\Practice 3 DS_Mat.dll
+C:\Users\Комп\YandexDisk\My C#\Practice 3 DS_Mat\obj\Debug\net6.0\refint\Practice 3 DS_Mat.dll
+C:\Users\Комп\YandexDisk\My C#\Practice 3 DS_Mat\obj\Debug\net6.0\Practice 3 DS_Mat.pdb
+C:\Users\Комп\YandexDisk\My C#\Practice 3 DS_Mat\obj\Debug\net6.0\Practice 3 DS_Mat.genruntimeconfig.cache
+C:\Users\Комп\YandexDisk\My C#\Practice 3 DS_Mat\obj\Debug\net6.0\ref\Practice 3 DS_Mat.dll
